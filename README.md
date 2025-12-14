@@ -2,7 +2,8 @@
 
 This project is a SQL-based analysis of credit card transactions in India. The purpose is to clean, explore, and analyse transaction data to understand spending patterns and trends. Through this project, I demonstrate the use of key SQL concepts such as data cleaning, aggregation, and window functions.
 
-📂 Dataset Description
+📂 Dataset Description-
+
 The dataset contains information about credit card transactions, including:
 •	Transaction date
 •	Transaction amount
